@@ -1,0 +1,6 @@
+framework module XSNFCFramework {
+  umbrella header "XSNFCFramework.h"
+
+  export *
+  module * { export * }
+}
